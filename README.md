@@ -69,7 +69,7 @@ CMH (Centralized Medical Healthcare) is a full-stack application that enables se
    ```
    or
    ```
-   git clone https://github.com/HARSHK2021/CHM.git
+   https://github.com/abhaypratap1710/Health-Partner.git
    ```
    Navigate to
    ```
